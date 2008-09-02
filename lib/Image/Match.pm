@@ -7,7 +7,7 @@ use Prima::noX11;
 use Prima;
 require Exporter;
 
-our $VERSION = '1.00';
+our $VERSION = '1.01';
 our $Y_GROWS_UPWARDS = 0;
 
 sub match

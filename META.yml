@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Image-Match
-version:             1.00
+version:             1.01
 abstract:            locate image inside another
 license:             ~
 author:              
