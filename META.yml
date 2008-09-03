@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:                Image-Match
-version:             1.01
-abstract:            locate image inside another
+version:             1.02
+abstract:            locate an image inside another
 license:             ~
 author:              
     - Dmitry Karasik <dmitry@karasik.eu.org>
